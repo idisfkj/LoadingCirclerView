@@ -50,5 +50,5 @@ captures/
 *.jks
 
 # Android Studio
+.idea/*
 .idea
-.idea/
